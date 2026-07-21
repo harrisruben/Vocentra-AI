@@ -331,4 +331,10 @@ It motivates further development and helps others discover the project.
 
 Building the future of AI-powered voice automation.
 
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/harrisruben/
+- GitHub: https://github.com/harrisruben
+- Portfolio: https://harris-ruben.netlify.app
+
 </div>
