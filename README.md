@@ -266,7 +266,9 @@ Campaign Insights
 
 # 📸 Screenshots
 
-> Screenshots and demo GIFs will be added soon.
+## Dashboard
+
+![Dashboard](docs/screenshots/dashboard.png)
 
 ---
 
